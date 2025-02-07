@@ -1,4 +1,4 @@
-# 📊 Learning Excel: Data Analysis – 
+# 📊 Learning Excel: Data Analysis
 ## Chapter 1
 ### 🚀 Course: Learning Excel: Data Analysis  
 Instructor: Curt Frye  
